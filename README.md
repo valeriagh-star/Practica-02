@@ -11,6 +11,17 @@ A grandes rasgos, esta práctica consistió en diseñar y codificar una solució
 * La clase Main.java se ubicó en la raíz de src/, sirviendo como el punto de inicio de la aplicación. Así mismo, esta clase gestionó la interacción con el usuario y garantizó la validación de los datos solicitados.
 * Se incluyó un archivo README.txt con el nombre completo del alumno en el directorio raíz del proyecto.
 
+## ⚙️ Tecnologías utilizadas
+
+* **Lenguaje:** JavaSE-24.
+* **IDE:** Eclipse IDE.
+
+## 📁 Estructura del Proyecto
+
+El proyecto sigue la estructura jerárquica solicitada, separando la lógica de negocio (Clase `Usuario`) de la lógica de aplicación (Clase `Main`).
+Proyecto/ ├── src/ │ ├── modulos/ │ │ └── Usuario.java (Clase de negocio con encapsulamiento) │ └── Main.java (Clase principal con interacción de consola y validaciones) └── README.md └── README.txt (Archivo de texto con el nombre completo del alumno)
+
+## 📸 Evidencias (Capturas de pantalla)
 
 
 
