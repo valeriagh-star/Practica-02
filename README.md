@@ -29,6 +29,8 @@ El proyecto sigue la estructura jerárquica solicitada, separando la lógica de 
 
 ## 📸 Evidencias (Capturas de pantalla)
 
+A continuación se muestra la captura de pantalla de la ejecución en consola, donde se verifica el funcionamiento de las validaciones de Rol y Correo, y la correcta creación del objeto `Usuario`.
 
+![Captura de la Ejecución de Main](practica02.png)
 
 
