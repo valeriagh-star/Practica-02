@@ -39,5 +39,9 @@ A continuación se muestra la captura de pantalla de la ejecución en consola, d
 | **Clase Main** | [src/Main/Main.java](https://github.com/valeriagh-star/Practica-02/blob/main/src/Main/Main.java) |
 | **README** | [Practica02/main/README.txt](https://github.com/valeriagh-star/Practica-02/blob/main/README.txt) |
 
+## ▶️ Instrucciones de ejecución
 
-
+1.  **Clonar el Repositorio**
+2.  **Abrir en IDE:** Importar la carpeta clonada como un proyecto Java en Eclipse o IntelliJ.
+3.  **Ejecutar:** Ir a `src/Main.java`, hacer clic derecho y seleccionar **"Run As"** -> **"Java Application"**.
+4.  **Interacción:** Seguir las instrucciones de la consola e ingresar el Nombre, Correo y Rol. El programa manejará las validaciones automáticamente.
