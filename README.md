@@ -1,4 +1,4 @@
-# Practica-02
+# Practica 02
 
 ## ✅ Objetivo
 <div align="justify">
