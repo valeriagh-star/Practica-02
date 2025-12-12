@@ -33,6 +33,8 @@ A continuación se muestra la captura de pantalla de la ejecución en consola, d
 
 ![Captura de la Ejecución de Main](practica02.png)
 
+El código fuente de los directorios está organizado por paquetes y se puede revisar directamente en la carpeta src/()
+
 | Carpetas | Ruta del Archivo .java |
 | :--- | :--- |
 | **Clase Usuario** | [src/Usuario/Usuario.java](https://github.com/valeriagh-star/Practica-02/blob/main/src/modulos/Usuario.java) | 
