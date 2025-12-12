@@ -19,7 +19,18 @@ A grandes rasgos, esta práctica consistió en diseñar y codificar una solució
 ## 📁 Estructura del Proyecto
 
 El proyecto sigue la estructura jerárquica solicitada, separando la lógica de negocio (Clase `Usuario`) de la lógica de aplicación (Clase `Main`).
-Proyecto/ ├── src/ │ ├── modulos/ │ │ └── Usuario.java (Clase de negocio con encapsulamiento) │ └── Main.java (Clase principal con interacción de consola y validaciones) └── README.md └── README.txt (Archivo de texto con el nombre completo del alumno)
+
+**Proyecto/**
+
+**├── src/**
+
+**│ ├── modulos/**
+
+**│ │ └── Usuario.java (Clase que emplea los principios de encapsulamiento)**
+
+**│ └──Main.java (Clase principal con interacción de consola y validaciones)**
+
+**└── README.txt (Archivo de texto con el nombre completo del alumno)**
 
 ## 📸 Evidencias (Capturas de pantalla)
 
