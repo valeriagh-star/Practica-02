@@ -1,9 +1,10 @@
 # Practica-02
-## Objetivo
+
+## ✅ Objetivo
 
 El objetivo de esta práctica fue aprender a organizar la estructura de directorios para facilitar la comprensión, el mantenimiento y la escalabilidad de los programas, aplicando conceptos básicos de la programación orientada a objetos.
 
-## Descripción
+## ✍️ Descripción
 
 A grandes rasgos, esta práctica consistió en diseñar y codificar una solución modular en Java que aplicó la encapsulación y los métodos de una clase (Usuario) bajo el control de una clase principal (Main) que se encargó de la validación interactiva de datos.
 * Se utilizó la carpeta src/modulos para almacenar las clases creadas.
