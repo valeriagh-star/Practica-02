@@ -34,3 +34,5 @@ A continuación se muestra la captura de pantalla de la ejecución en consola, d
 ![Captura de la Ejecución de Main](practica02.png)
 
 
+
+
