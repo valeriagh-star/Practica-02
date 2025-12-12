@@ -33,9 +33,6 @@ A continuación se muestra la captura de pantalla de la ejecución en consola, d
 
 ![Captura de la Ejecución de Main](practica02.png)
 
-Componente	Ruta del Archivo	Descripción
-Clase Usuario	src/modulos/Usuario.java	Implementa Encapsulamiento con atributos privados, constructores, getters, setters, y el método equals.
-Clase Main	src/Main.java	Contiene el método main y gestiona la interacción por consola, incluyendo la validación de Rol y Correo.
-Documentación	README.txt	Archivo requerido que contiene únicamente el nombre completo del alumno.
+
 
 
