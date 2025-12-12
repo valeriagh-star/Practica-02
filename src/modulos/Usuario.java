@@ -1,3 +1,6 @@
+//paquete donde se encuentra la clase Usuario
+package modulos;
+
 public class Usuario {
 	//atributos privados a la clase Usuario
 	private String Nombre;
