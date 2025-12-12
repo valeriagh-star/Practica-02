@@ -1,8 +1,7 @@
-<div align="justify">
 # Practica-02
 
 ## ✅ Objetivo
-
+<div align="justify">
 El objetivo de esta práctica fue aprender a organizar la estructura de directorios para facilitar la comprensión, el mantenimiento y la escalabilidad de los programas, aplicando conceptos básicos de la programación orientada a objetos.
 
 ## ✍️ Descripción
