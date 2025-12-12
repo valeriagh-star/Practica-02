@@ -1,3 +1,4 @@
+<div align="justify">
 # Practica-02
 
 ## ✅ Objetivo
@@ -48,3 +49,4 @@ El código fuente de los directorios está organizado por paquetes y se puede re
 2.  **Abrir en IDE:** Importar la carpeta clonada como un proyecto Java en Eclipse o IntelliJ.
 3.  **Ejecutar:** Ir a `src/Main.java`, hacer clic derecho y seleccionar **"Run As"** -> **"Java Application"**.
 4.  **Interacción:** Seguir las instrucciones de la consola e ingresar el Nombre, Correo y Rol. El programa manejará las validaciones automáticamente.
+</div>
