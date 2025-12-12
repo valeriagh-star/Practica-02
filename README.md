@@ -36,7 +36,7 @@ A continuación se muestra la captura de pantalla de la ejecución en consola, d
 | Carpetas | Ruta del Archivo .java |
 | :--- | :--- |
 | **Clase Usuario** | [src/Usuario/Usuario.java](https://github.com/valeriagh-star/Practica-02/blob/main/src/modulos/Usuario.java) | 
-| **Clase Main** | [src/Main/Main.java](https://github.com/valeriagh-star/Practica-02/blob/main/src/Main/Main.java) |
+| **Clase Main** | [src/Main/Main.java](https://github.com/valeriagh-star/Practica-02/blob/main/src/Main.java) |
 | **README** | [Practica02/main/README.txt](https://github.com/valeriagh-star/Practica-02/blob/main/README.txt) |
 
 ## ▶️ Instrucciones de ejecución
