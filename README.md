@@ -20,12 +20,12 @@ A grandes rasgos, esta práctica consistió en diseñar y codificar una solució
 
 El proyecto sigue la estructura jerárquica solicitada, separando la lógica de negocio (Clase `Usuario`) de la lógica de aplicación (Clase `Main`).
 
-**Proyecto/**                   (Directorio raíz)
-**├── src/**                    (Carpeta principal)
-**│   ├── modulos/**            (Carpeta donde se almacenarán las clases)
-**│   │   └── Usuario.java**    (Clase Usuario que utiliza los principios de encapsulamiento: Atributos privados, constructores, getters, setters, y método equals)
-**│   └── Main.java**           (Clase principal: Contiene el método main y las validaciones) 
-**└── README.txt**              (Archivo con el nombre completo del alumno)
+**Proyecto/**                   
+**├── src/**                    
+**│   ├── modulos/**            
+**│   │   └── Usuario.java**    
+**│   └── Main.java**           
+**└── README.txt**              
 
 ## 📸 Evidencias (Capturas de pantalla)
 
